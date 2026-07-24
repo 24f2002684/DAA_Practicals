@@ -6,7 +6,7 @@ Min-Heap (Priority Queue) to find the shortest paths
 from a given source vertex to all other vertices in a
 weighted graph with non-negative edge weights.
 
-Author: Your Name
+Author: Suhail Akthar S M (IT-C, 210425205166)
 """
 
 import heapq
